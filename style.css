@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: arial;
+  background-color: black;
+  color: white;
+}
+
+nav {
+  margin: 0;
+  background-color: black;
+  padding: 0.3em 1em;
+  position: relative;
+  border-bottom: 0.01em solid white;
+}
+
+section {
+  display: inline-block;
+}
+
+.logo {
+  margin: 0;
+}
+
+.links {
+  position: absolute;
+  right: 1em;
+}
+
+a {
+  font-size: 0.7em;
+  text-decoration: none;
+  color: inherit;
+}
